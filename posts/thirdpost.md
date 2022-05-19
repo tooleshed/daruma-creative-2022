@@ -3,6 +3,7 @@ title: This is the third example post which has a slightly longer title than the
 date: 2020-01-01
 author: Jane Doe
 summary: Why contemplating our mortality can be a powerful catalyst for change
+eleventyExcludeFromCollections: true
 tags:
   - tech
   - politics

@@ -1,7 +1,7 @@
 :root {
-	--primary: blue;
-	--secondary: white;
-	--background: #FFF0EB;
+	--primary: #212121;
+	--secondary: #dcefed;
+	--background: white;
 }
 
 *, *:before, *:after {
@@ -44,6 +44,18 @@ a[href]:not(:hover) {
 img {
 	max-width: 100%;
 	height: auto;
+}
+
+.text-left {
+	text-align: left;
+}
+
+.text-center {
+	text-align: center;
+}
+
+.text-right {
+	text-align: right;
 }
 
 header,
@@ -112,7 +124,7 @@ header nav li a[href]:not(:hover) {
 }
 
 header nav li a[data-current="current item"] {
-	background-color: white;
+	background-color: var(--secondary);
 }
 
 /* Posts List */
@@ -187,6 +199,21 @@ button {
 	background-color: var(--primary);
 	color: var(--secondary);
 	cursor: pointer;
+}
+
+footer {
+	display: flex;
+	justify-content: space-between;
+	font-size: 16px;
+}
+
+footer div {
+	flex: 1;
+}
+
+footer a svg {
+		height: 20px;
+    margin: 0 16px;
 }
 
 @media screen and (min-width:768px) {
