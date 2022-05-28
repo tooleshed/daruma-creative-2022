@@ -1,0 +1,24 @@
+---
+layout: layouts/base.njk
+pagination:
+    data: series
+    size: 1
+    alias: series
+permalink: "series/{{ series.title | slug }}/"
+---
+<div class="grid grid-cols-3 gap-4">
+    <div class="h-full">
+        <div class="sticky top-0">
+            <h1 class="mb-0">{{ series.title }}</h1>
+            <p>{{ series.desc }}</p>
+        </div>
+    </div>
+    <div class="col-span-2 not-prose">
+        {% for img in series.images %}
+        <figure>
+            <img src="/static/img/series/{{ img.url }}" alt="{{ img.title }} | {{ series.title }}" />
+            <figcaption class="mb-12 text-slate-400">{{ img.title }}</figcaption>
+        </figure>
+        {% endfor %}
+    </div>
+</div>

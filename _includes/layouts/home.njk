@@ -3,4 +3,15 @@ layout: layouts/base.njk
 section: home
 ---
 
+<section class="text-gray-600 body-font pt-16 pb-28 not-prose">
+  <div class="flex flex-wrap -m-4">
+    {% for serie in series %}
+    <a href="series/{{ serie.title | slug }}/" class="xl:w-1/3 md:w-1/2 p-2 hover:underline">
+      <img class="rounded w-full object-cover object-center mb-2" src="/static/img/series/{{ serie.thumb }}" alt="{{ serie.title }} thumbnail">
+      <h2 class="text-lg text-gray-900 font-medium text-center title-font my-0">{{ serie.title }}</h2>
+    </a>
+    {% endfor %}
+  </div>
+</section>
+
 {{ layoutContent | safe }}

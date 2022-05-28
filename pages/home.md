@@ -6,5 +6,3 @@ eleventyNavigation:
   key: Home
   order: 0
 ---
-
-# Tatiana Bischak

@@ -1,0 +1,86 @@
+[
+  {
+    "title": "Home Items Series",
+    "desc": "",
+    "thumb": "home/DailyDesign_KennedyToolBox.png",
+    "images": [
+      { "title": "Abandoned Hat", "url": "home/DailyDesign_AbandonedHat-.png" },
+      { "title": "Coffee Setup", "url": "home/DailyDesign_CoffeeSetup_final.png" },
+      { "title": "Electric Pencil Sharpener", "url": "home/DailyDesign_ElectricPencilSharpener.png" },
+      { "title": "Front Window", "url": "home/DailyDesign_FrontWindow.png" },
+      { "title": "Hanging Pot", "url": "home/DailyDesign_HangingPot.png" },
+      { "title": "Kennedy Tool Box", "url": "home/DailyDesign_KennedyToolBox.png" },
+      { "title": "M22 Sign and Clock", "url": "home/DailyDesign_M22SignandClock.png" },
+      { "title": "My Computer", "url": "home/DailyDesign_MyComputer.png" },
+      { "title": "TV Setup", "url": "home/DailyDesign_TVSetup.png" },
+      { "title": "Wright Lamp", "url": "home/DailyDesign_WrightLamp.png" }
+    ]
+    },
+  {
+    "title": "Colored Car Series",
+    "desc": "",
+    "thumb": "colored-car/ToyotaLandCruiseTruck.png",
+    "images": [
+      { "title": "Food Truck - Roaming Harvest", "url": "colored-car/FoodTruck_roamingharvest.png" },
+      { "title": "Michigan Hop Alliance Truck", "url": "colored-car/MichiganHopAllianceTruck_dribbble.png" },
+      { "title": "Teardrop Trailer Home", "url": "colored-car/TeardropTrailerHome_final.png" },
+      { "title": "Toyota Land Cruise Truck", "url": "colored-car/ToyotaLandCruiseTruck.png" }
+    ]
+  },
+  {
+    "title": "B&W Car Series",
+    "desc": "",
+    "thumb": "bw-car/TriumphTR3.png",
+    "images": [
+      { "title": "57 T-Bird", "url": "bw-car/57TBird.png" },
+      { "title": "Ford Truck", "url": "bw-car/FordTruck.png" },
+      { "title": "Panther Lima", "url": "bw-car/PantherLima.png" },
+      { "title": "Triumph TR3", "url": "bw-car/TriumphTR3.png" }
+    ]
+  },
+  {
+    "title": "Motorcycle Series",
+    "desc": "",
+    "thumb": "motorcycle/BMW_R80_rebound_color.png",
+    "images": [
+      { "title": "BMW K100RS Ultramarine", "url": "motorcycle/BMW_K100RS_Ultramarine_rebound.png" },
+      { "title": "BMW R80", "url": "motorcycle/BMW_R80_rebound_color.png" },
+      { "title": "BMW R1200C", "url": "motorcycle/BMW_R1200C_reboundcolor.png" },
+      { "title": "Kawalski Zephir 1100", "url": "motorcycle/KawalskiZephir1100_COLOR.png" },
+      { "title": "Suzuki DR650", "url": "motorcycle/SuzukiDR650_REBOUND.png" },
+      { "title": "Triumph Bonneville T100", "url": "motorcycle/TRIUMPH_BONNEVILLE_T100_color2.png" },
+      { "title": "Yahmaha SR250", "url": "motorcycle/Yahmaha_SR250_withcolor.png" }
+    ]
+  },
+  {
+    "title": "Butterfly Series",
+    "desc": "A series of moths and butterflies made out of simple geometric lines and colors.",
+    "thumb": "butterfly/monarch_dribbble.png",
+    "images": [
+      { "title": "Cecropia Moth", "url": "butterfly/cecropiamoth_dribbble.png" },
+      { "title": "Io Moth", "url": "butterfly/iomoth_dribbble4.png" },
+      { "title": "Luna Moth", "url": "butterfly/lunamoth_dribbble.png" },
+      { "title": "Monarch", "url": "butterfly/monarch_dribbble.png" },
+      { "title": "Morning Cloak", "url": "butterfly/morningcloak_dribbble.png" },
+      { "title": "Spanish Moth", "url": "butterfly/spanishmoth_dribbble.png" },
+      { "title": "Swallowtail", "url": "butterfly/swallowtail_dribbble.png" }
+    ]
+  },
+  {
+    "title": "Buildings and Architecture Series",
+    "desc": "A series of buildings and homes spanning from cold castles to warm cabins. Part of my 365 days of design.",
+    "thumb": "buildings/DailyDesign_AframeHome.png",
+    "images": [
+      { "title": "Moss Castle Home", "url": "buildings/Castle_supermoss.png" },
+      { "title": "A frame Home", "url": "buildings/DailyDesign_AframeHome.png" },
+      { "title": "Cabin Home", "url": "buildings/DailyDesign_CabinHome2.png" },
+      { "title": "Beach Home", "url": "buildings/DailyDesign_ThisTookWayTooMuchofMyTime2.png" },
+      { "title": "Irish Cottage", "url": "buildings/IrishCottage.png" },
+      { "title": "Micro Home", "url": "buildings/MicroHome.jpg" },
+      { "title": "Pueblo Home", "url": "buildings/PuebloHome.png" },
+      { "title": "Santorini", "url": "buildings/Santorini.png" },
+      { "title": "Water Hut House", "url": "buildings/WaterHutHouse.png" },
+      { "title": "Winterfell", "url": "buildings/Winterfell.png" }
+    ]
+  }
+]

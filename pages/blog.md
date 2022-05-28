@@ -1,8 +1,8 @@
 ---
 layout: layouts/blog.njk
 title: Blog
-metaDescription: A sample Blog page listing various posts and authors.
-date: 2017-01-01
+metaDescription: Blog posts by Daruma Creative
+# date:
 permalink: /blog/index.html
 eleventyNavigation:
   key: Blog

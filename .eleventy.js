@@ -1,10 +1,89 @@
 const { DateTime } = require("luxon");
-const CleanCSS = require("clean-css");
+// const CleanCSS = require("clean-css");
 const UglifyJS = require("uglify-js");
 const htmlmin = require("html-minifier");
 const eleventyNavigationPlugin = require("@11ty/eleventy-navigation");
+const Image = require("@11ty/eleventy-img");
+const outdent = require('outdent');
+
+const stringifyAttributes = (attributeMap) => {
+  return Object.entries(attributeMap)
+    .map(([attribute, value]) => {
+      if (typeof value === 'undefined') return '';
+      return `${attribute}="${value}"`;
+    })
+    .join(' ');
+};
+
+// 11ty Image
+const imageShortcode = async (
+  src,
+  alt,
+  className = undefined,
+  widths = [400, 800, 1280],
+  formats = ['webp', 'png'],
+  sizes = '100vw'
+) => {
+  const imageMetadata = await Image(src, {
+    widths: [...widths, null],
+    formats: [...formats, null],
+    outputDir: "_site/static/img",
+    urlPath: "/static/img",
+  });
+
+  const sourceHtmlString = Object.values(imageMetadata)
+    // Map each format to the source HTML markup
+    .map((images) => {
+      // The first entry is representative of all the others
+      // since they each have the same shape
+      const { sourceType } = images[0];
+
+      // Use our util from earlier to make our lives easier
+      const sourceAttributes = stringifyAttributes({
+        type: sourceType,
+        // srcset needs to be a comma-separated attribute
+        srcset: images.map((image) => image.srcset).join(', '),
+        sizes,
+      });
+
+      // Return one <source> per format
+      return `<source ${sourceAttributes}>`;
+    })
+    .join('\n');
+
+  const getLargestImage = (format) => {
+    const images = imageMetadata[format];
+    return images[images.length - 1];
+  }
+
+  const largestUnoptimizedImg = getLargestImage(formats[0]);
+  const imgAttributes = stringifyAttributes({
+    src: largestUnoptimizedImg.url,
+    width: largestUnoptimizedImg.width,
+    height: largestUnoptimizedImg.height,
+    alt,
+    loading: 'lazy',
+    decoding: 'async',
+  });
+  const imgHtmlString = `<img ${imgAttributes}>`;
+
+  const pictureAttributes = stringifyAttributes({
+    class: className,
+  });
+  const picture = `<picture ${pictureAttributes}>
+    ${sourceHtmlString}
+    ${imgHtmlString}
+  </picture>`;
+
+  return outdent`${picture}`;
+};
+// end 11ty Image
 
 module.exports = function(eleventyConfig) {
+
+  eleventyConfig.addNunjucksAsyncShortcode("image", imageShortcode);
+  eleventyConfig.addLiquidShortcode("image", imageShortcode);
+  eleventyConfig.addJavaScriptFunction("image", imageShortcode);
 
   // Eleventy Navigation https://www.11ty.dev/docs/plugins/navigation/
   eleventyConfig.addPlugin(eleventyNavigationPlugin);
@@ -48,9 +127,9 @@ module.exports = function(eleventyConfig) {
   });
 
   // Minify CSS
-  eleventyConfig.addFilter("cssmin", function(code) {
-    return new CleanCSS({}).minify(code).styles;
-  });
+  // eleventyConfig.addFilter("cssmin", function(code) {
+  //   return new CleanCSS({}).minify(code).styles;
+  // });
 
   // Minify JS
   eleventyConfig.addFilter("jsmin", function(code) {
@@ -79,7 +158,7 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addPassthroughCopy("favicon.ico");
   eleventyConfig.addPassthroughCopy("static/img");
   eleventyConfig.addPassthroughCopy("admin");
-  eleventyConfig.addPassthroughCopy("_includes/assets/css/inline.css");
+  eleventyConfig.addPassthroughCopy("style.css");
 
   /* Markdown Plugins */
   let markdownIt = require("markdown-it");

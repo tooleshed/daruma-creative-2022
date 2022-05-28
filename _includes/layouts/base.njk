@@ -3,16 +3,21 @@
 
 	{% include "components/head.njk" %}
 
-	<body>
+	<body class="container mx-auto max-w-6xl flex flex-col h-screen justify-between">
 
-		<header>
-			<em>
-				<a href="{{ '/' | url }}">{{ metadata.title }}</a>
-			</em>
-			{% include "components/nav.njk" %}
+		<header class="text-gray-600 body-font">
+			<div class="container mx-auto flex flex-wrap p-5 flex-col md:flex-row items-center">
+				<a href="{{ '/' | url }}" class="flex title-font font-medium items-center text-gray-900 mb-4 md:mb-0">
+					{% image "./static/img/daruma-creative-logo.png", "Daruma Creative Logo", "w-10 h-10" %}
+					<span class="ml-3 text-xl">{{ metadata.title }}</span>
+				</a>
+				{% include "components/nav.njk" %}
+				{# <button class="inline-flex items-center bg-gray-100 border-0 py-1 px-3 focus:outline-none hover:bg-gray-200 rounded text-base mt-4 md:mt-0">Let's Chat!
+				</button> #}
+			</div>
 		</header>
 
-		<main>
+		<main class="container px-5 py-12 mx-auto prose max-w-none mb-auto">
 			{{ layoutContent | safe }}
 		</main>
 
