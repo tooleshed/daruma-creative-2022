@@ -5,7 +5,7 @@
   "scripts": {
     "build": "npx eleventy",
     "watch": "npx eleventy --watch",
-    "tailwind:process": "npx postcss style.css --o _site/styles.css --watch",
+    "tailwind:process": "npx postcss static/css/style.css --o _site/styles.css --watch",
     "start": "concurrently \"npm run tailwind:process\" \"npm run serve\"",
     "serve": "npx eleventy --serve",
     "debug": "DEBUG=* npx eleventy"

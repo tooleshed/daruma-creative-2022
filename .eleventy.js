@@ -158,8 +158,8 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addPassthroughCopy("favicon.ico");
   eleventyConfig.addPassthroughCopy("static/img");
   eleventyConfig.addPassthroughCopy("admin");
-  eleventyConfig.addPassthroughCopy("style.css");
-  eleventyConfig.addPassthroughCopy("styles.css");
+  eleventyConfig.addPassthroughCopy("static/css/style.css");
+  eleventyConfig.addPassthroughCopy("static/css/styles.css");
 
   /* Markdown Plugins */
   let markdownIt = require("markdown-it");
