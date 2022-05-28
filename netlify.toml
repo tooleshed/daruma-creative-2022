@@ -1,6 +1,6 @@
 [build]
   publish = "_site"
-  command = "eleventy"
+  command = "npx postcss static/css/style.css --o _site/styles.css && npx eleventy"
 
 # REDIRECT and HEADERS examples
 
