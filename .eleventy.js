@@ -3,6 +3,7 @@ const { DateTime } = require("luxon");
 const UglifyJS = require("uglify-js");
 const htmlmin = require("html-minifier");
 const eleventyNavigationPlugin = require("@11ty/eleventy-navigation");
+const lazyImagesPlugin = require('eleventy-plugin-lazyimages');
 const Image = require("@11ty/eleventy-img");
 const outdent = require('outdent');
 
@@ -87,6 +88,9 @@ module.exports = function(eleventyConfig) {
 
   // Eleventy Navigation https://www.11ty.dev/docs/plugins/navigation/
   eleventyConfig.addPlugin(eleventyNavigationPlugin);
+
+  // LazyImages plugin for 11ty https://github.com/liamfiddler/eleventy-plugin-lazyimages
+  eleventyConfig.addPlugin(lazyImagesPlugin);
 
   // Configuration API: use eleventyConfig.addLayoutAlias(from, to) to add
   // layout aliases! Say you have a bunch of existing content using
