@@ -1,5 +1,15 @@
 [![Netlify Status](https://api.netlify.com/api/v1/badges/bbf28a84-4bdb-407b-a2fa-32628d27fa3d/deploy-status)](https://app.netlify.com/sites/eleventy-netlify-boilerplate/deploys)
 
+### To do
+* Series pages aren't responsive
+* Update author page layout
+* Update 404 page
+* Images using 11ty image package (remove it?)
+* Improve SEO
+* Sitemap
+* htaccess and all that jazz
+* See if it's possible to create a custom contact success page
+
 # Eleventy Netlify Boilerplate
 
 ### Click the button below to try it out!
