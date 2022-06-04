@@ -2,8 +2,8 @@
 
 ### To do
 * ~~Series pages aren't responsive~~
-* Update author page layout
-* Update 404 page
+* ~~Update author page layout~~
+* ~~Update 404 page~~
 * Images using 11ty image package (remove it?)
 * Improve SEO
 * Sitemap
