@@ -43,7 +43,7 @@
 					<img src="/static/img/blog/{{ post.data.image }}" alt="{{ post.data.imageAlt }}" />
 				</a>
         <h2 class="sm:text-3xl text-2xl title-font font-medium text-gray-900 mt-4 mb-2">
-					<a href="{{ post.url | url }}" class="hover:underline">
+					<a href="{{ post.url | url }}" class="hover:underline hover:text-red-500">
 						{% if post.data.title %}
 							{{ post.data.title }}
 						{% else %}
@@ -52,7 +52,7 @@
 					</a>
 				</h2>
 				<time datetime="{{ post.date | machineDate }}" class="mb-2">
-					<small>{{ post.date | readableDate }} by <a href="/authors/{{ post.data.author | slug }}/" class="hover:underline">{{ post.data.author }}</a> <strong class="mx-2">&bull;</strong> <span>About {{ post | readingTime({speed:200}) }} reading time</span></small>
+					<small>{{ post.date | readableDate }} by <a href="/authors/{{ post.data.author | slug }}/" class="hover:underline hover:text-red-500">{{ post.data.author }}</a> <strong class="mx-2">&bull;</strong> <span>About {{ post | readingTime({speed:200}) }} reading time</span></small>
 				</time>
 				{% if post.data.summary %}
 					<p class="leading-relaxed mb-8">
@@ -64,7 +64,7 @@
 						{% for tag in post.data.tags %}
 							{%- if tag != "post" -%}
 								{% set tagUrl %}/tags/{{ tag }}/{% endset %}
-							<a href="{{ tagUrl | url }}" rel="tag" class="inline-block py-1 px-2 rounded bg-indigo-50 text-indigo-500 text-xs font-medium tracking-widest mr-2">{{ tag }}</a>
+							<a href="{{ tagUrl | url }}" rel="tag" class="inline-block py-1 px-2 rounded bg-red-50 text-red-500 text-xs font-medium tracking-widest mr-2">{{ tag }}</a>
 							{%- endif -%}
 						{% endfor %}
 					{% endif %}
