@@ -18,12 +18,12 @@ renderData:
   <div class="container pb-24 mx-auto max-w-2xl">
     <div class="flex flex-wrap -m-12">
 			{% for post in collections.authors[author] | reverse %}
-      <article{% if post.url == url %} data-current="current item"{% endif %} class="p-12 flex flex-col items-start">
-				<a href="{{ post.url | url }}">
+      <article{% if post.page.url == url %} data-current="current item"{% endif %} class="p-12 flex flex-col items-start">
+				<a href="{{ post.page.url | url }}">
 					<img src="/static/img/blog/{{ post.image }}" alt="{{ post.imageAlt }}" />
 				</a>
         <h2 class="sm:text-3xl text-2xl title-font font-medium text-gray-900 mt-4 mb-2">
-					<a href="{{ post.url | url }}" class="hover:underline hover:text-red-500">
+					<a href="{{ post.page.url | url }}" class="hover:underline hover:text-red-500">
 						{% if post.title %}
 							{{ post.title }}
 						{% else %}
