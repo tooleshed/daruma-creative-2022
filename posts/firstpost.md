@@ -1,5 +1,5 @@
 ---
-title: Red Flags to Look for in Initial Client Contact1
+title: Red Flags to Look for in Initial Client Contact test
 date: 2020-01-24
 author: Tatiana Bischak
 summary: If you are a veteran freelancer, you know that you don’t have time for
