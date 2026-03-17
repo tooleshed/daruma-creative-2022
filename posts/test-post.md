@@ -11,3 +11,7 @@ tags:
   - tagtwo
 ---
 This is test body content
+
+
+
+![Alt text](/static/img/404.png "Image title.")
