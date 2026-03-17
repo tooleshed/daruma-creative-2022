@@ -1,7 +1,7 @@
 [
   {
     "title": "Home Items Series",
-    "desc": "",
+    "desc": "Home Items Series",
     "thumb": "home/DailyDesign_KennedyToolBox.png",
     "images": [
       { "title": "Abandoned Hat", "url": "home/DailyDesign_AbandonedHat-.png" },
@@ -18,7 +18,7 @@
     },
   {
     "title": "Colored Car Series",
-    "desc": "",
+    "desc": "Colored Car Series",
     "thumb": "colored-car/ToyotaLandCruiseTruck.png",
     "images": [
       { "title": "Food Truck - Roaming Harvest", "url": "colored-car/FoodTruck_roamingharvest.png" },
@@ -29,7 +29,7 @@
   },
   {
     "title": "B&W Car Series",
-    "desc": "",
+    "desc": "B&W Car Series",
     "thumb": "bw-car/TriumphTR3.png",
     "images": [
       { "title": "57 T-Bird", "url": "bw-car/57TBird.png" },
@@ -40,7 +40,7 @@
   },
   {
     "title": "Motorcycle Series",
-    "desc": "",
+    "desc": "Motorcycle Series",
     "thumb": "motorcycle/BMW_R80_rebound_color.png",
     "images": [
       { "title": "BMW K100RS Ultramarine", "url": "motorcycle/BMW_K100RS_Ultramarine_rebound.png" },
