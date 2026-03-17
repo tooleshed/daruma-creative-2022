@@ -41,3 +41,24 @@ collections:
           - { label: "Key", name: "key", widget: "string" }
           - { label: "Order", name: "order", widget: "number", default: 0 }
       - { label: "Body", name: "body", widget: "markdown" }
+  - name: "settings"
+    label: "Site Settings"
+    files:
+      - name: "metadata"
+        label: "Site Metadata"
+        file: "_data/metadata.json"
+        fields:
+          - { label: "Site Title", name: "title", widget: "string" }
+          - { label: "Site Description", name: "description", widget: "string" }
+          - { label: "Site URL", name: "url", widget: "string" }
+      - name: "social"
+        label: "Social Media Links"
+        file: "_data/social.json"
+        fields:
+          - { label: "Facebook", name: "facebook", widget: "string", required: false }
+          - { label: "Instagram", name: "instagram", widget: "string", required: false }
+          - { label: "Twitter", name: "twitter", widget: "string", required: false }
+          - { label: "Dribbble", name: "dribbble", widget: "string", required: false }
+          - { label: "Behance", name: "behance", widget: "string", required: false }
+          - { label: "Etsy", name: "etsy", widget: "string", required: false }
+          - { label: "Buy Me a Coffee", name: "buymeacoffee", widget: "string", required: false }
