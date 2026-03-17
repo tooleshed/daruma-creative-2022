@@ -5,6 +5,9 @@ pagination:
     size: 1
     alias: series
 permalink: "series/{{ series.title | slug }}/"
+renderData:
+    title: "{{ series.title }} | {{ metadata.title }}"
+    metaDescription: "{{ series.desc }}"
 ---
 <div class="grid md:grid-cols-3 gap-4">
     <div class="h-full">
