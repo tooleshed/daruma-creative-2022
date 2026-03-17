@@ -5,8 +5,8 @@ pagination:
     size: 1
     alias: series
 permalink: "series/{{ series.title | slug }}/"
-renderData:
-    title: "{{ series.title }} | {{ metadata.title }}"
+eleventyComputed:
+    title: "{{ series.title }} | Daruma Creative"
     metaDescription: "{{ series.desc }}"
 ---
 <div class="grid md:grid-cols-3 gap-4">
