@@ -2,8 +2,6 @@ import htm from "https://unpkg.com/htm?module";
 import format from "https://unpkg.com/date-fns@2.7.0/esm/format/index.js?module";
 import isValid from "https://unpkg.com/date-fns@2.7.0/esm/isValid/index.js?module";
 
-CMS.registerPreviewStyle("/styles.css");
-
 const html = htm.bind(h);
 
 // Preview component for a Post
