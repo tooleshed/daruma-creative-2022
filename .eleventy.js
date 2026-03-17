@@ -4,6 +4,7 @@ const UglifyJS = require("uglify-js");
 const { minify } = require("html-minifier-terser");
 const eleventyNavigationPlugin = require("@11ty/eleventy-navigation");
 const Image = require("@11ty/eleventy-img");
+const slugify = require("slugify");
 
 // 11ty Image
 const imageShortcode = async (src, alt, className, widths, formats, sizes) => {
@@ -34,6 +35,14 @@ module.exports = function(eleventyConfig) {
 
   // Eleventy Navigation https://www.11ty.dev/docs/plugins/navigation/
   eleventyConfig.addPlugin(eleventyNavigationPlugin);
+
+  eleventyConfig.addFilter("slug", (str) => {
+    return slugify(str, {
+      lower: true,
+      strict: true,
+      replacement: "-"
+    });
+  });
 
   // Reading time
   eleventyConfig.addFilter("readingTime", (content) => {
