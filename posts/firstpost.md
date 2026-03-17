@@ -1,16 +1,20 @@
 ---
-title: Red Flags to Look for in Initial Client Contact
-metaDescription: If you are a veteran freelancer, you know that you don’t have time for stressful clients, and you enter every initial conversation with a healthy amount of skepticism.
+title: Red Flags to Look for in Initial Client Contact1
 date: 2020-01-24
 author: Tatiana Bischak
-summary: If you are a veteran freelancer, you know that you don’t have time for stressful clients, and you enter every initial conversation with a healthy amount of skepticism.
-image: red-flags-main.png
+summary: If you are a veteran freelancer, you know that you don’t have time for
+  stressful clients, and you enter every initial conversation with a healthy
+  amount of skepticism.
 imageAlt: Red Flags to Look for in Initial Client Contact
+metaDescription: If you are a veteran freelancer, you know that you don’t have
+  time for stressful clients, and you enter every initial conversation with a
+  healthy amount of skepticism.
 tags:
   - advice
   - client advice
   - freelancing advice
   - red flags
+image: red-flags-main.png
 ---
 
 If you are a veteran freelancer, you know that you don't have time for stressful clients, and you enter every initial conversation with a healthy amount of skepticism. If you're starting off as a freelancer, you might ignore your gut feelings in order to land a project, or you might not even know what to look out for. The desire to work on a project as a new creative sometimes overrides our logical side, and we put ourselves at risk. When you work alone and for yourself, you have to protect your time and sanity, and keeping an eye out for red flags is a big part of that.
