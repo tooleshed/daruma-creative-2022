@@ -1,5 +1,6 @@
 import htm from "https://unpkg.com/htm?module";
 import format from "https://unpkg.com/date-fns@2.7.0/esm/format/index.js?module";
+import isValid from "https://unpkg.com/date-fns@2.7.0/esm/isValid/index.js?module";
 
 const html = htm.bind(h);
 
@@ -7,6 +8,9 @@ const html = htm.bind(h);
 const Post = createClass({
   render() {
     const entry = this.props.entry;
+    const rawDate = entry.getIn(["data", "date"], null);
+    const date = rawDate ? new Date(rawDate) : null;
+    const formattedDate = date && isValid(date) ? format(date, "dd MMM, yyyy") : "No date";
 
     return html`
       <main>
@@ -14,14 +18,7 @@ const Post = createClass({
           <h1>${entry.getIn(["data", "title"], null)}</h1>
           <p>
             <small>
-              <time
-                >${
-                  format(
-                    entry.getIn(["data", "date"], new Date()),
-                    "dd MMM, yyyy"
-                  )
-                }</time
-              >
+              <time>${formattedDate}</time>
               ${" by Author"}
             </small>
           </p>
@@ -30,14 +27,13 @@ const Post = createClass({
 
           ${this.props.widgetFor("body")}
           <p>
-            ${
-              entry.getIn(["data", "tags"], []).map(
-                tag =>
-                  html`
+            ${entry.getIn(["data", "tags"], []).map(
+      tag =>
+        html`
                     <a href="#" rel="tag">${tag}</a>
                   `
-              )
-            }
+    )
+      }
           </p>
         </article>
       </main>
