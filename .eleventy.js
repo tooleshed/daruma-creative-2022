@@ -1,83 +1,28 @@
 const { DateTime } = require("luxon");
 // const CleanCSS = require("clean-css");
 const UglifyJS = require("uglify-js");
-const htmlmin = require("html-minifier");
+const { minify } = require("html-minifier-terser");
 const eleventyNavigationPlugin = require("@11ty/eleventy-navigation");
-const readingTime = require('eleventy-plugin-reading-time');
-const lazyImagesPlugin = require('eleventy-plugin-lazyimages');
 const Image = require("@11ty/eleventy-img");
-const outdent = require('outdent');
-
-const stringifyAttributes = (attributeMap) => {
-  return Object.entries(attributeMap)
-    .map(([attribute, value]) => {
-      if (typeof value === 'undefined') return '';
-      return `${attribute}="${value}"`;
-    })
-    .join(' ');
-};
 
 // 11ty Image
-const imageShortcode = async (
-  src,
-  alt,
-  className = undefined,
-  widths = [400, 800, 1280],
-  formats = ['webp', 'png'],
-  sizes = '100vw'
-) => {
-  const imageMetadata = await Image(src, {
-    widths: [...widths, null],
-    formats: [...formats, null],
+const imageShortcode = async (src, alt, className, widths, formats, sizes) => {
+  const metadata = await Image(src, {
+    widths: widths || [400, 800, 1280, null],
+    formats: formats || ['webp', 'png', null],
     outputDir: "_site/static/img",
     urlPath: "/static/img",
   });
 
-  const sourceHtmlString = Object.values(imageMetadata)
-    // Map each format to the source HTML markup
-    .map((images) => {
-      // The first entry is representative of all the others
-      // since they each have the same shape
-      const { sourceType } = images[0];
-
-      // Use our util from earlier to make our lives easier
-      const sourceAttributes = stringifyAttributes({
-        type: sourceType,
-        // srcset needs to be a comma-separated attribute
-        srcset: images.map((image) => image.srcset).join(', '),
-        sizes,
-      });
-
-      // Return one <source> per format
-      return `<source ${sourceAttributes}>`;
-    })
-    .join('\n');
-
-  const getLargestImage = (format) => {
-    const images = imageMetadata[format];
-    return images[images.length - 1];
-  }
-
-  const largestUnoptimizedImg = getLargestImage(formats[0]);
-  const imgAttributes = stringifyAttributes({
-    src: largestUnoptimizedImg.url,
-    width: largestUnoptimizedImg.width,
-    height: largestUnoptimizedImg.height,
+  const imageAttributes = {
     alt,
+    class: className,
+    sizes: sizes || '100vw',
     loading: 'lazy',
     decoding: 'async',
-  });
-  const imgHtmlString = `<img ${imgAttributes}>`;
+  };
 
-  const pictureAttributes = stringifyAttributes({
-    class: className,
-  });
-  const picture = `<picture ${pictureAttributes}>
-    ${sourceHtmlString}
-    ${imgHtmlString}
-  </picture>`;
-
-  return outdent`${picture}`;
+  return Image.generateHTML(metadata, imageAttributes);
 };
 // end 11ty Image
 
@@ -90,11 +35,15 @@ module.exports = function(eleventyConfig) {
   // Eleventy Navigation https://www.11ty.dev/docs/plugins/navigation/
   eleventyConfig.addPlugin(eleventyNavigationPlugin);
 
-  // LazyImages plugin for 11ty https://github.com/liamfiddler/eleventy-plugin-lazyimages
-  eleventyConfig.addPlugin(lazyImagesPlugin);
-
-  // Reading time plugin for Eleventy https://github.com/johanbrook/eleventy-plugin-reading-time
-  eleventyConfig.addPlugin(readingTime);
+  // Reading time
+  eleventyConfig.addFilter("readingTime", (content) => {
+    if (!content) return "1 min read";
+    const text = typeof content === 'string' ? content : (content.templateContent || content.content || '');
+    if (!text) return "1 min read";
+    const words = text.replace(/<[^>]*>/g, '').split(/\s+/).length;
+    const minutes = Math.ceil(words / 200);
+    return `${minutes} min read`;
+  });
 
   // Configuration API: use eleventyConfig.addLayoutAlias(from, to) to add
   // layout aliases! Say you have a bunch of existing content using
@@ -150,14 +99,13 @@ module.exports = function(eleventyConfig) {
   });
 
   // Minify HTML output
-  eleventyConfig.addTransform("htmlmin", function(content, outputPath) {
-    if (outputPath.indexOf(".html") > -1) {
-      let minified = htmlmin.minify(content, {
+  eleventyConfig.addTransform("htmlmin", async function (content, outputPath) {
+    if (outputPath && outputPath.endsWith(".html")) {
+      return await minify(content, {
         useShortDoctype: true,
         removeComments: true,
         collapseWhitespace: true
       });
-      return minified;
     }
     return content;
   });
