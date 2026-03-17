@@ -15,3 +15,5 @@ This is the body test stuff
 ## Here's a h2
 
 gsndgkfjnkdgjkfd
+
+![test](/static/img/404.png "test image title")
