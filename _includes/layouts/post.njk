@@ -4,11 +4,13 @@ section: post
 ---
 
 <article class="mx-auto max-w-2xl prose-lg">
-  <img src="/static/img/blog/{{ image }}" alt="{{ imageAlt }}" />
+  {% if image %}
+    <img src="/static/img/blog/{{ image }}" alt="{{ imageAlt }}" />
+  {% endif %}
   <h1 class="my-0">{{ title }}</h1>
   <p class="mt-4">
     <small>
-      <time datetime="{{ page.date | machineDate }}">{{ page.date | readableDate }}</time> by <a href="/authors/{{ author | slug }}/">{{ author }}</a> <strong class="mx-2">&bull;</strong> <span>About {{ layoutContent | readingTime({speed:200}) }} reading time</span>
+      <time datetime="{{ page.date | machineDate }}">{{ page.date | readableDate }}</time> by <a href="/authors/{{ author | slug }}/">{{ author }}</a> <strong class="mx-2">&bull;</strong> <span>About {{ content | readingTime({speed:200}) }} reading time</span>
     </small>
   </p>
 
