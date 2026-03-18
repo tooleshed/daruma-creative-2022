@@ -199,3 +199,19 @@ The following are also fear response variations, but not considered to be within
 * **Faint**
 
    (actual physical collapse)
+
+## The Wrap Up
+
+Outlined above is a more proactive and beneficial way of looking at ourselves and others in the most frustrating circumstances. Instead of seeing a coworker as lazy, they’re now depleted of energy and defeated. Instead of being scared of a enraged boss, understand that it is them who is scared and very poorly managing their emotions (and maybe this isn’t a safe working environment for you).
+
+It’s not easy to always look at the workplace through this lens, especially in stressful situations. However, two things are critically important when working with others:
+
+* When interacting and working together, we owe each other respect, kindness, empathy, and understanding.
+* Having a more accurate understanding of a situation sets the stage for more 
+  sustainable and effective problem solving and solutions.
+
+This is the first part of a multi part series discussing the fear responses, how they impact the work place and individuals, how our minds and bodies work, and ways for all members of a company to take action in making work places more safe, functional, healthy, and productive. In the next part, we’ll be talking about the mechanics of the mind and why people react the way they do to fear.
+
+*Thank you for reading. Everything I write is written with the intention of moving people towards a healthier, more united, and more joyous world. If you want to support me and my writing, you can [buy me a coffee](http://buymeacoffee.com/darumacreative). No AI was used in the writing or illustrations in this article.*
+
+*This article with written with the help of Dr. Boon Wan Wang-Whelan, a neuroscientist, a psychotherapist specializing in play therapy, and a dear friend. You can find more details about her and her work at [wayfindingwithwen.com](https://wayfindingwithwen.com/). Thank you, Wen.*
