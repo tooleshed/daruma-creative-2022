@@ -77,3 +77,35 @@ Starting from your earliest years, you log how to deal with scary situations in 
 With its increased blood flow, the amygdala is going to try to take over as your guide. To your body, the future does not matter if the threat kills you. So the critical thinker (the frontal lobe) takes a backseat. Logic is out, survival is in. You’re now using a different part of your brain, the one that stores the memories of the tactics that got you this far.
 
 #### TL;DR: When you are stressed or frightened, your body prepares itself to react while scanning for more threats, and a different part of your brain takes control of your decision making. This part of your brain is deeply emotional and highly irrational when compared to the day-to-day part of your brain.
+
+![illustration of an extreme close up of the amygdala's face with bloodshot eyes, drooping eyebags, and worried brows while saying, "Engage the fear response."](/static/img/1_plbwikoy1whdgga-slyetq.webp)
+
+## The Four Major Fear Responses
+
+A combination of the leading amygdala and the following frontal lobe will dictate actions based on these emotional memories and what you found to be successful in the past. Did you stay and fight? Did you run away? Did you just freeze? Or did you try to calm down or fix the situation?
+
+![illustration of four split images representing the main four fear responses: the first of an angry face, the second of a sticky note saying "out of office" on a wooden surface, the third of a scared, wide eyed face, and the fourth a worried smiling face.](/static/img/1_cjsvdfpc-ee4zluyizxh2g.webp "The main fear responses: fight, flight, freeze, and fawn.")
+
+The four main fear responses are **fight, flight, freeze, and fawn.** They are not star signs or personality types; they are complex reactions based on the situation, people involved, past memories, desired outcome, and energy levels. So given the situation, each person can be a fight, flight, freeze, or fawn.
+
+![A line graph showing the variation of someone's emotional energy throughout a day including a fear response spike and crash.](/static/img/1_x5xbwt7t4nehoma3ed-oja.webp)
+
+If you have the energy and confidence, you are more than likely to respond with fight or flight. These require a lot of energy whether you are confronting the fear or running from it. When choosing these responses (whether subconsciously or intentionally), you feel prepared and sure that will you successfully gain the upper hand.
+
+However, if you do not, your body will begin to shut down and opt for the lower energy fear responses: freeze and fawn. When you are worn down or know you can’t win in the situation, you take desperate measures over active choices. Constant stress, untreated trauma, and physical/mental exhaustion increase the chances of responding with freeze or fawn.
+
+## What do Fear Responses Look Like in the Workplace?
+
+### Fight: Overpower the Threat
+
+![illustration of a small amygdala labeled "fear" saying, "say hello to my little friend!" while point at a larger amygdala with an angry face and clenched fists labeled "anger"](/static/img/1_txkm7coiprkyxsqjzgzhaw.webp "Anger is a secondary emotion to when we feel vulnerable, hurt, and afraid. It’s a great emotion with the potential to help and protect, but it also can do a lot of harm to yourself and others if not managed properly. Anger is telling your body that you deserve better based on all the information you know. But that doesn’t mean all the things you know are true and accurate.")
+
+The fight response stands its ground and attacks, and a secondary emotion comes into play: anger. To protect our vulnerable selves, we become angry when we are scared, disappointed, frustrated, or humiliated. Anger exists to protect us.
+
+![a flowchart of anger responses showing that depending on the perceived threat, the angry person will change how they retaliate in anger to ensure the level of safety they are comfortable with by either suppressing the anger, using passive aggression, or being assertively aggressive.](/static/img/1_x51ww4dhjwgchsopsiukda.webp "A really simplified flow chart on how we chose to express anger. Remember, people have different subjective views of what is risk, pain, support, and protection, and this impacts decision making a lot.")
+
+Anger reactions have risks because they often involve violence. Society is more accepting of verbal and mental violence when compared to physical, but too much of any violence is socially unacceptable. It can also trigger anger in other people who are acting in their own defense or in the defense of others. Because of the potential consequences, reactions driven by anger are largely influenced by social structure and power dynamics. People try to adapt their responses to what they believe they can get away with.
+
+![illustration of two amygdala engaging in anger: one is being assertive by shouting angrily at a small person, "YOU ARE FUCKING USELESS!" while the amygdala on the right is wearing a smiling mask, giving a thumbs up, and sending an email that starts with, "As per my last email..."](/static/img/1_g_t-aevru8qsfkcublxy3q.webp "Assertive aggression is outright aggression like name calling, rude behavior, condescending tones, punishments, and even physical attacks. Passive aggression is spreading rumors, mirroring behavior back, giving someone the cold shoulder, and veiled language.")
+
+Anger is often expressed through aggression, and it has a wide range from passive to assertive. Subtle verbal jabs, gossiping, and quietly sabotaging people is passive behavior. Assertive aggression is shouting, name calling, and threatening others. Bosses or managers have more power in the workplace, so they tend to use assertive tactics. Employees and coworkers hold less or the same power as others, so they opt for the less noticeable, passive responses that won’t get them in trouble. An aggressive outburst of rage from a company owner may not even get them anger management training. An aggressive outburst from an unpaid intern may result in immediate dismissal and a reputation that follows them.
