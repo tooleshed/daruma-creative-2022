@@ -76,4 +76,4 @@ Starting from your earliest years, you log how to deal with scary situations in 
 
 With its increased blood flow, the amygdala is going to try to take over as your guide. To your body, the future does not matter if the threat kills you. So the critical thinker (the frontal lobe) takes a backseat. Logic is out, survival is in. You’re now using a different part of your brain, the one that stores the memories of the tactics that got you this far.
 
-## TL;DR: When you are stressed or frightened, your body prepares itself to react while scanning for more threats, and a different part of your brain takes control of your decision making. This part of your brain is deeply emotional and highly irrational when compared to the day-to-day part of your brain.
+#### TL;DR: When you are stressed or frightened, your body prepares itself to react while scanning for more threats, and a different part of your brain takes control of your decision making. This part of your brain is deeply emotional and highly irrational when compared to the day-to-day part of your brain.
