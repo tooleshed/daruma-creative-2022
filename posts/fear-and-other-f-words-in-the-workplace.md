@@ -25,7 +25,7 @@ tags:
   - toxic
   - workplace
 ---
-(This article was written without the use of AI and with the support of a neuroscientist)
+
 
 ![](/static/img/1_7t-ik_irlsunmqewcffhpw_003.png)
 
