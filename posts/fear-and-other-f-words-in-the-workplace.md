@@ -183,22 +183,34 @@ The following are also fear response variations, but not considered to be within
 
 * **Fine**
 
-   (denying the problem by saying “everything’s fine!”)
+   
+
+  (denying the problem by saying “everything’s fine!”)
 * **Friend**
 
-   (befriending and cozying up to the threat in the workplace)
+   
+
+  (befriending and cozying up to the threat in the workplace)
 * **Feign**
 
-   (engage in intense self blame or deprecating behavior before the threat can act, therefore encouraging the threat to comfort them rather than criticize them)
+   
+
+  (engage in intense self blame or deprecating behavior before the threat can act, therefore encouraging the threat to comfort them rather than criticize them)
 * **Fright**
 
-   (threatening without following through with action)
+   
+
+  (threatening without following through with action)
 * **Flop**
 
-   (essentially playing dead)
+   
+
+  (essentially playing dead)
 * **Faint**
 
-   (actual physical collapse)
+   
+
+  (actual physical collapse)
 
 ## The Wrap Up
 
