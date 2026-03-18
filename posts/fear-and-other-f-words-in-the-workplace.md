@@ -109,3 +109,93 @@ Anger reactions have risks because they often involve violence. Society is more 
 ![illustration of two amygdala engaging in anger: one is being assertive by shouting angrily at a small person, "YOU ARE FUCKING USELESS!" while the amygdala on the right is wearing a smiling mask, giving a thumbs up, and sending an email that starts with, "As per my last email..."](/static/img/1_g_t-aevru8qsfkcublxy3q.webp "Assertive aggression is outright aggression like name calling, rude behavior, condescending tones, punishments, and even physical attacks. Passive aggression is spreading rumors, mirroring behavior back, giving someone the cold shoulder, and veiled language.")
 
 Anger is often expressed through aggression, and it has a wide range from passive to assertive. Subtle verbal jabs, gossiping, and quietly sabotaging people is passive behavior. Assertive aggression is shouting, name calling, and threatening others. Bosses or managers have more power in the workplace, so they tend to use assertive tactics. Employees and coworkers hold less or the same power as others, so they opt for the less noticeable, passive responses that won’t get them in trouble. An aggressive outburst of rage from a company owner may not even get them anger management training. An aggressive outburst from an unpaid intern may result in immediate dismissal and a reputation that follows them.
+
+![illustration of two amygdalas: one standing on a pyramid of supporting things like job security, healthcare, and prolonged confidence, and the second holding up an upside down pyramid of things working against them like debt, unsafe, and used to failure](/static/img/1_6nfk1_31n7jc_e4i_euovw.webp "Here we can see the things that build up (or break down) our confidence and self esteem in the workplace that allow us (or prevent us) to advocate for ourselves or behave in an aggressive manner. I’ve *loosely* followed Maslow’s hierarchy of needs for order and flipped it for the preventing side.")
+
+So with the fight response, people in positions of secure power tend to be more flagrant as they are confident their actions will only benefit them. Others without such an advantage “get even” by passive aggressively fighting back. Regardless of whether it is obvious or more 
+subtle anger, getting angry at someone or something generally does not fix the problem. Suppressing the anger is also an option, but those emotions will eventually come out- either in the workplace, at home, or out into the world.
+
+### Flight: Run Away from the Threat
+
+![illustration of amygdala running away while leaving a small note behind that says, "very busy! sorry!"](/static/img/1_e7f1mpkvyl4hlxto0jpwsa.webp)
+
+If you can not win with the fight response, the next best option is to get away from the problem. In the flight response, high energy fuels avoiding the source of fear. People in a flight response make themselves unavailable and get out of projects and responsibilities. They often 
+fill their schedules with busy work so they do not have to face the thing causing them stress. Being absent for meetings, leaving work often for a myriad of reasons, and avoiding responsibilities for the lightest of excuses are examples of this. It’s a form of high energy 
+procrastination.
+
+There are obvious consequences for abandoning responsibilities. If ignored, problems tend to get more urgent and difficult to deal with. Other people may be picking up the slack and feeling resentment towards the person not doing their job. But alongside these issues, avoiding responsibilities causes shame, guilt, and further anxiety inside a person. These are very uncomfortable emotions to sit with, and to deal with them, people engage in **coping mechanisms**.
+
+Coping mechanisms are used by people to distance themselves emotionally from stress. They can be directed towards others or towards themselves. In this article, we are going to focus on negative coping mechanisms, but it’s important to remember that **not all coping mechanisms are harmful to people, the individual, or the issue.** Going for a walk in nature, meditation, spending time with someone you enjoy, and reading a book are examples of beneficial coping mechanisms. Harmful coping mechanisms involve excessive consumption, self destructive behavior, and passing pain on to other people.
+
+![animation of a 8 bit plat-former video game where an amygdala must navigate a level to the exit by jumping on other amygdala to bridge large gaps](/static/img/1_kgxujmoozwzui4hwjyk8uq.gif "In an effort to escape a threat, people in flight can disregard others’ needs as they use them as a means to an end to escape the threat and the anxieties that come from avoiding responsibilities.")
+
+When flights pass on the blame and stress on, it is a coping mechanism directed towards others. They dump their anxiety on other situations and people, inside and outside of the workplace. Focusing on irrelevant details, getting irrationally upset over small things, and micromanaging others helps distract them from what’s really bothering them. Flights can also finger point and place blame on other people and things as to why they haven’t gotten their own work done. Other people with unfinished work are an easy scapegoat when in reality, people in flight often are looking for any excuse to be blocked.
+
+![animation of an amygdala holding a glass of whiskey and a cigarette at a market stall with a sign "potions for sale" and several items for sale: alcohol, donuts, cigarettes, pills, and an expensive shoe](/static/img/1_t8ju90b9avxxftke8rxm3w.gif "While it’s easy to point at common vices like drinking and smoking as obvious coping mechanisms, anything can be a coping mechanism. When something or some action is used excessively to suppress uncomfortable thoughts or feelings, it’s a coping mechanism. Think about that lady who ate mattresses on My Strange Addiction.")
+
+Negative coping mechanisms aimed towards themselves are often forms of self 
+destruction, often through over consumption. These are things like nail biting, retail therapy, excessive drinking, smoking, drug use, and over eating. These numb those uncomfortable emotions mentioned before. Extensive use of self destructive behaviors can have negative 
+consequences on the individual. They increase wear and tear on the body, suppress healthy emotions, financially strain the individual, and can fog their rational thinking in the short and long term.
+
+While flights simply make themselves disappear, other people are left to pick up the pieces. When fight response individuals are able to engage flights, the flights can run over other people to get away or shift into a different fear response to deal with being unable to escape.
+
+### Freeze: Be Overwhelmed by the Threat
+
+![illustration of an amygdala standing in the shadow of something gigantic while it stares up with an open mouth and fear in its eyes](/static/img/1_rt2m-iluaa7li5-1vwqgma.webp)
+
+The freeze is one of the two responses made in hypo arousal, when energy is short supply. In the freeze response, the individual has no energy or confidence that would allow them to fight or flee the situation, and now they are just stuck. Freeze is less of a choice and more of a 
+blinking “service engine” light. Compared to flight’s high energy procrastination, this is the low energy form.
+
+![illustration of a amygdala laying on the floor, drooling and eyes half closed while they endlessly scroll their phone in a frozen state](/static/img/1_krc1vfhkyoctrm_e8tiukq.webp "It’s kind of messed up that the major social medias are designed to trap and addict people stuck in freeze responses all for profit, but that’s another conversation.")
+
+Freeze shows up as procrastination or creative block. It is endlessly scrolling social media feeds, flitting between tasks without making any forward movement, or staring blankly into space. They are stuck on idle- whether consciously or subconsciously. Any time they attempt to approach the issue, they are lost in a void of no motivation and no creativity.
+
+![illustration of an amygdala laying face down as the world grows dark around it and fingers come from all directions to point blame it](/static/img/1_oe72suukscf5yyyx4x8l_q.webp "“Lazy” is what we often call people struggling to work. How helpful is that to the situation?")
+
+But because they do nothing, frozen people often get blamed by people in flight who are able to leave the problem. They are picked on by fights who are either too upset to recognize the struggle behind the freeze response or do not believe that it exists. In their minds, people not doing their jobs are lazy, have no work ethic, and are just terrible at their jobs.
+
+![illustration of a cross section of a person's head with the frontal lobe and amygdala sitting sad and defeated inside while fingers inside the brain point and blame them for everything](/static/img/1_k4rt8bb__lxcxcs3rk7enq.webp "In our vulnerable, low energy state, thoughts of worthlessness, self doubt, internal criticism, and catastrophizing creep in. Without intervention or actions to pull us out, we spiral into a darker and darker place.")
+
+With all that said, it is often that people frozen in place are the hardest on themselves. They want to fight for themselves, but do not have the confidence or energy. They want to step away, but they feel compelled to try to work instead from obligation, fear, or guilt. They mentally punish themselves for not being able to concentrate or perform. They want to work, but their minds and bodies are not responding. They then interpret this as being bad at their job and not good enough. This, of course, does nothing to improve their situation and only makes it worse.
+
+### Fawn: Soothe the Threat
+
+![illustration of a haggard and exhausted amygdala saying, "yeah, no, I can do that on the weekend"](/static/img/1_pcesxpqnpxxy7odnih6trg.webp)
+
+When energy is low and the threat is demanding a response, surrendering is one of the last options. A person who fawns in work gives beyond what they are physically or mentally able. They can not win the fight, they can not successfully flee, and staying frozen is impossible as the threat demands their interaction.
+
+![illustration of an amygdala buried under a pile of responsibilities represented by stones, and the stones have phrases on them like "one on one with manager", "task", "drink water", "7 new emails", and "someone else's problem"](/static/img/1_rw8hc26pkbbn5d4_dvzhiw.webp "Tasks pile up and become overwhelming, and people in a perpetual fawn response often do not see the issue or fear if they address it that it would cause more problems than they already have.")
+
+People fawning believe that taking on the work of others will fix the situation and keep them safe. If there is a failure somewhere in the process, they take it upon themselves to make up for it. The fear of saying no becomes greater than the threat, and they become swamped with work.
+
+![illustration of a variation of the popular trolley problem meme with the title "Choose which one the trolley crushes! Fawning edition!" with "Your personal well being (and ability to make good decisions)" on one track and "job security (by just doing the work even though it sucks)" on the other track, but both tracks lead to a large statement that states that basically no matter the choice, someone loses and the broken system continues to make us all miserable as we pass through generations of people](/static/img/1_usrvq_8envvnqv86es8sqw.webp "I’m actually very fun at parties, thanks.")
+
+Some consider this a net good because they are working, especially people in other fear responses whose workload is lightened. However, when people work harder than their mental and physical health can handle, this causes problems. More mistakes are made by overworked employees. Work turn around takes longer. While in a survival mindset, right and wrong become blurred as the most important factor in judgement is just getting the work done. This can lead to unethical and harmful business decisions and practices. And while all this happens, emotions that fuel bad behaviors begin to rise.
+
+Fawns can begin to develop resentment towards others and a sense of entitlement. *“If I can do it, why can’t they?”* This can turn those fawning back into the fight response when pushed far enough and their energy returns. They then use their self sacrificing behavior to guilt others into working beyond their means. Management and leadership positions in the fawn response can drive their teams into the ground as they set an unsustainable path to burn out through overwork.
+
+By not voicing their needs and boundaries, they endanger their health and well being. They pour from a cup that is constantly empty, and they set a poor standard for workplaces by working beyond their means. Fawns work hard to appease the fights and pick up the slack from flights and freezes. Fights often treat them poorly as scapegoats because they know 
+they can get what they want from them. Flights are happy to have someone else face their responsibilities, and freezes sit quietly.
+
+### Bonus F Words
+
+The following are also fear response variations, but not considered to be within the main four.
+
+* **Fine**
+
+   (denying the problem by saying “everything’s fine!”)
+* **Friend**
+
+   (befriending and cozying up to the threat in the workplace)
+* **Feign**
+
+   (engage in intense self blame or deprecating behavior before the threat can act, therefore encouraging the threat to comfort them rather than criticize them)
+* **Fright**
+
+   (threatening without following through with action)
+* **Flop**
+
+   (essentially playing dead)
+* **Faint**
+
+   (actual physical collapse)
