@@ -12,7 +12,7 @@ eleventyNavigation:
 ---
 ![](/static/img/profilepicture.jpg)
 
-Tatiana Bischak is strategy designer, identitiy designer, and award winning illustrator living in Greystones, Ireland. Her approach to projects centers around ethical strategy whether creating or following it.
+Tatiana Bischak is a strategy designer, identity designer, and award winning illustrator living in Greystones, Ireland. Her approach to projects centers around ethical strategy whether creating or following it.
 
 She is an advocate for ethical treatment of workers- particularly artists- mental health, and the betterment of culture and society starting with the self. She has been featured on Behance and Dribbble’s top 100 designers of 2017.
 
