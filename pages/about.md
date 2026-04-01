@@ -12,11 +12,11 @@ eleventyNavigation:
 ---
 ![](/static/img/profilepicture.jpg)
 
-Tatiana Bischak is an award winning (in Norway) designer and illustrator living in Greystones, Ireland.
+Tatiana Bischak is strategy designer, identitiy designer, and award winning illustrator living in Greystones, Ireland. Her approach to projects centers around ethical strategy whether creating or following it.
 
-She has worked with Adobe, Zappos, 8x8, Dr Pepper, and many startups to develop branding and illustrative products.
+She is an advocate for ethical treatment of workers- particularly artists- mental health, and the betterment of culture and society starting with the self. She has been featured on Behance and Dribbble’s top 100 designers of 2017.
 
-Her approach to work is very much based in brand identity and the why and will only take on goal focused projects. She is an advocate for ethical treatment of workers- particularly artists- mental health, and the betterment of culture and society starting with the self. She has been featured on Behance and Dribbble’s top 100 designers of 2017.
+Past clients include Adobe, Zappos, 8x8, Dr Pepper, and many startups to develop branding and illustrative products.
 
 <a href="https://www.iheart.com/podcast/256-two-artists-one-cast-43043247/episode/e5-dont-be-embarrassed-with-44846813/" target="_blank">Two Artists, One Cast Podcast</a>
 
