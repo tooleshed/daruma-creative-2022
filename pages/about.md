@@ -1,12 +1,16 @@
 ---
 layout: layouts/about.njk
 title: About Tatiana Bischak
-metaDescription: Identity design and brand centric illustration. Illustrator/designer specializing in brand centric artwork. Supporting companies who want to make positive changes in the world. Devout humanist.
+metaDescription: Identity design and brand centric illustration.
+  Illustrator/designer specializing in brand centric artwork. Supporting
+  companies who want to make positive changes in the world. Devout humanist.
+date: 2026-04-01T14:41:00.000+01:00
 permalink: /about/index.html
 eleventyNavigation:
   key: About
   order: 1
 ---
+![](/static/img/profilepicture.jpg)
 
 Tatiana Bischak is an award winning (in Norway) designer and illustrator living in Greystones, Ireland.
 
