@@ -7,4 +7,14 @@ eleventyNavigation:
   order: 5
   key: Services
 ---
-This is a test
+# Services
+
+## Consultation
+
+Stuck in a rut? Need fresh eyes on a project? Looking to explore fresh options for your business?
+
+Hire an ethical strategist to help you figure it out!
+
+##### €120 an hour 
+
+[Contact for Booking](https://darumacreative.com/contact/)
