@@ -43,9 +43,11 @@ Again, thank you.
 
 The LAION datasets scraped data from the Common Crawl (2014–2021) which contained my works (and yours) from Dribbble and other sites. I found a significant portion of my portfolio in their datasets in 2022.
 
-![]()
+![A side by side of an illustration of a parachute adams fly and a screenshot of the same illustration in the LAION 5B datasets](/static/img/dcw_blogheaders_parachuteadams.png "Parachute Adams (102/365) in the LAION 5B datasets, screenshot taken in September 12, 2022.")
 
-My art that I made to survive and heal was taken without my consent, fed into AI models, and used to create a digital competitor that threatened my career, the careers of my community, and the careers of future artists and designers.
+My art that I made to survive and heal was taken without my consent, fed into AI models, and used to create a digital competitor that threatened my career, the careers of my community, and the careers of future artists and designers. From my count and what I was able to find, there were at least 96 pieces of my work in the LAION 5B dataset.
+
+![A side by side of an illustration of a flying fish and a screenshot of the same illustration in the LAION 5B datasets](/static/img/dcw_blogheaders_flyingfish.png "Flyingfish (56/365) in the LAION 5B datasets, screenshot taken in September 12, 2022.")
 
 Devastated and freshly re-violated, I stopped sharing art for about three years. I blocked everything and everyone AI, got therapy, made art privately, and wrote a lot.
 
