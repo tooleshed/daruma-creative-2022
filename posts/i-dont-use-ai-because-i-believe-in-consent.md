@@ -39,9 +39,9 @@ The people in the industry who encouraged me (and encourage me to this day) taug
 
 Again, thank you.
 
-The LAION datasets scraped data from the Common Crawl (2014–2021) which contained my works (and yours) from Dribbble and other sites.
+![screenshot of an image search of one of the LAION datasets](/static/img/artboard-3_slides.png "My work can be seen as the searched image to the far left with the top search result showing my work was included in the datasets")
 
-I found work in the datasets in 2022. 
+The LAION datasets scraped data from the Common Crawl (2014–2021) which contained my works (and yours) from Dribbble and other sites. I found a significant portion of my portfolio in their datasets in 2022. 
 
 My art that I made to survive and heal was taken without my consent, fed into AI models, and used to create a digital competitor that threatened my career, the careers of my community, and the careers of future artists and designers.
 
