@@ -9,6 +9,8 @@ summary: Tatiana O'Toole stance on AI through a personal story and a very
 tags:
   - AI
 ---
+
+
 *This is a dark and very personal story. I share it because I want there to be no confusion about my stance on AI and why it is so staunchly against the technology.*
 
 *It's going to be discussing consent and the psychological impact of when consent isn't respected. It’s also going to talk about child sexual abuse.*
@@ -21,13 +23,15 @@ I spent a good chunk of my life being told that my consent did not matter. Betwe
 
 In 2015, I was raped again, and I finally broke. I didn’t leave my house, I stopped caring for myself, and I slipped into a weed fueled numbness so the constant oscillation between euphoria to suicidal depression would just stop.
 
-In 2016, after recognizing how bad I had gotten, I reached out to the online creative communities to try to make art again. I needed purpose.
+In 2016, after recognizing how bad my mental health had gotten, I reached out to the online creative communities to try to make art again. I needed purpose.
 
 It was these communities who helped me recover. If you chatted with me during this period of recovery, thank you- your friendship and kindness changed my life in ways you cannot begin to understand. 
 
 It was because of the people in the art and design communities and their passion for their work that I started to share my own work. I expressed opinions. Reevaluated things I was taught. Saw my past and future in a new light. Unlearned a lot of toxic beliefs. Stepped outside and made friends again. Spoke with diverse and fascinating people.
 
 I made art, and -in return- my art remade me.
+
+![](/static/img/screenshot-2026-05-08-at-12.49.28 pm.png)
 
 By the end of 2017, I was listed as [one of Dribbble's top 50 liked designers on the platform](<>). It was largely due to the extended art project where I illustrated something once a day, every day. What people and clients saw as my portfolio was actually a journey of survival and creating purpose after being broken. Adding to my portfolio was a reason for me to wake up the next day.
 
