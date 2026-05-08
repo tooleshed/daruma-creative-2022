@@ -9,7 +9,7 @@ summary: Tatiana O'Toole stance on AI through a personal story and a very
 tags:
   - AI
 ---
-
+![](/static/img/dcw_blogheaders_warningicon.png)
 
 *This is a dark and very personal story. I share it because I want there to be no confusion about my stance on AI and why it is so staunchly against the technology.*
 
@@ -17,7 +17,7 @@ tags:
 
 *Please proceed with caution for your own mental health.*
 
-
+*\-*
 
 I spent a good chunk of my life being told that my consent did not matter. Between the ages of 12 and 18, I was molested, groomed, assaulted and raped by multiple people. I coped using drugs and alcohol starting around age 15.
 
