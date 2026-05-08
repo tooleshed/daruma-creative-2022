@@ -45,9 +45,13 @@ The LAION datasets scraped data from the Common Crawl (2014–2021) which contai
 
 ![A side by side of an illustration of a parachute adams fly and a screenshot of the same illustration in the LAION 5B datasets](/static/img/dcw_blogheaders_parachuteadams.png "Parachute Adams (102/365) in the LAION 5B datasets, screenshot taken in September 12, 2022.")
 
-My art that I made to survive and heal was taken without my consent, fed into AI models, and used to create a digital competitor that threatened my career, the careers of my community, and the careers of future artists and designers. From my count and what I was able to find, there were at least 96 pieces of my work in the LAION 5B dataset.
+My art that I made to survive and heal was taken without my consent, fed into AI models, and used to create a digital competitor that threatened my career, the careers of my community, and the careers of future artists and designers. 
 
 ![A side by side of an illustration of a flying fish and a screenshot of the same illustration in the LAION 5B datasets](/static/img/dcw_blogheaders_flyingfish.png "Flyingfish (56/365) in the LAION 5B datasets, screenshot taken in September 12, 2022.")
+
+I found 96 pieces of my work in the LAION 5B dataset before I had to stop looking.
+
+![A side by side of an illustration of a dragon and a screenshot of the same illustration in the LAION 5B datasets](/static/img/dcw_blogheaders_dragon.png "My dragon illustration in the LAION 5B datasets, screenshot taken in September 12, 2022.")
 
 Devastated and freshly re-violated, I stopped sharing art for about three years. I blocked everything and everyone AI, got therapy, made art privately, and wrote a lot.
 
@@ -62,6 +66,8 @@ I made a promise to myself that I would do everything I could to never be sexual
 Consent needs to be well informed, given freely, and able to be withdrawn without threat.
 
 On top of their other crimes against humanity, tech is setting an atrocious precedent for ignoring consent to the global community by absorbing data en masse. This data collection requires consent and for the users to be fully aware of how their data will be used and by whom. They cannot do this because they cannot securely protect the data nor do they want to. Private information of individuals across the globe is the new oil and gold. Users have very little choice as they are forced to accept terms of service that demand relinquishing data privacy rights to allow for mass data training. We have no other options; companies have a monopolistic ownership of markets. If- by some miracle- a company arises that promises data privacy and protection, it is only a matter of time before they are hacked for their data, betray their users by changing their data privacy stance, or selling off to another less scrupulous company. This is coercion and entrapment. 
+
+![](/static/img/screenshot-2026-05-08-at-4.44.30 pm.png)
 
 In addition, users are being force fed AI technology without their permission and no option to opt out. This is another violation of consent. This tech carries the baggage and cost of unethical actions and systems. Performing an AI bait n switch with platforms, products, and services that people previously consented to using is dishonest, deceitful, and a continuing dangerous precedent. This is not technology advancing and providing newer and better products instead of old ones- in fact, AI is making most of these services and products much worse. In reality, it is a forced scam in which users cannot escape.
 
