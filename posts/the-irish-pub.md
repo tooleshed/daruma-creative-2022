@@ -16,8 +16,6 @@ tags:
 
 *Based off of National Geographic photo I saw in a book I got from a garage sale.*
 
-![a photograph of three men drinking Guinness outside a pun window with half full Guinness glasses in the foreground on a table](/static/img/natgeophoto.png "The original photograph the hero illustration was inspired by")
-
 Irish pubs have a special air about them that just isn’t quite captured by the American recreations. For one thing, in an Irish pub, the light fixtures don’t all match. Probably because one was broken at a bachelor party in 1982, and Davey had a spare one kicking around in his shed that he brought down and gave to the publican for a few quid. Another was probably knocking against the new entry door to the women’s bathroom because someone did not measure and therefore failed to see the issue before installing it, and it was replaced with a narrowest one that was available at the local pound shop five doors down. The other two match, but one has just stopped working four years ago and no one has fixed it yet because it hasn’t really changed much about the space. But it’s grand, it does the job anyways.
 
 ![a rough sketch of two cabinets with trinkets and bottles inside](/static/img/pub_doodles-2.png "A doodle done with drinks of the cabinets containing curiousities and bits of local culture")
